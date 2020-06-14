@@ -1,0 +1,2 @@
+# cool
+begining of github
